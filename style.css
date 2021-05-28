@@ -132,7 +132,8 @@ body{
   background: #bbb;
 }
 
-.copyright-area{
-  align: center;
-  background-color:wheat;
+.copyright{
+  text-align: center;
+  background-color: white;
+  font-size: medium;
 }
